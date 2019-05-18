@@ -32,7 +32,7 @@
     "postinstall": "bower install"
   }
 },
-"name": "animo",
+"name": "responsive-nav",
 "repository": {
   "type": "git",
   "url": "git+https://github.com/webtack/responsive-nav.git"
