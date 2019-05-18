@@ -32,3 +32,9 @@
     "postinstall": "bower install"
   }
 }
+"name": "responsive-nav",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webtack/responsive-nav.git"
+  },
+  "version": "1.0.1"
